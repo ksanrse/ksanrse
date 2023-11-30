@@ -1,4 +1,4 @@
-![ksanrse](https://github.com/ksanrse/ksanrse/blob/main/images/heroimg.png)
+![ksanrse](https://github.com/ksanrse/ksanrse/blob/main/images/ksanrse.png)
 
 ### Hi there 👋
 
