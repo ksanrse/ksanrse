@@ -1,6 +1,6 @@
 ![ksanrse](https://github.com/ksanrse/ksanrse/blob/main/images/ksanrse.png)
 
-# Hello, I'm Kirill <img src="https://github.com/ksanrse/ksanrse/blob/main/images/giphy.gif" width="30px">
+# Hello, I'm Kirill <img src="https://github.com/ksanrse/ksanrse/blob/main/images/gify.gif" width="30px">
 
 <!--
 **ksanrse/ksanrse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
