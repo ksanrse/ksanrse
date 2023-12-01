@@ -1,6 +1,6 @@
-![ksanrse](https://github.com/ksanrse/ksanrse/blob/main/images/ksanrse.png)
+![ksanrse](https://github.com/ksanrse/ksanrse/blob/main/assets/ksanrse.png)
 
-# Hello, I'm Kirill <img src="https://github.com/ksanrse/ksanrse/blob/main/images/emoji.gif" height="40px">
+# Hello, I'm Kirill <img src="https://github.com/ksanrse/ksanrse/blob/main/assets/emoji.gif" height="40px">
 
 <!--
 **ksanrse/ksanrse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
