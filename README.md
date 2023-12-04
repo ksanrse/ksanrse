@@ -11,8 +11,8 @@
 ### My Frequently Used Stack:
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/ksanrse/ksanrse/blob/main/assets/htmlicon.png" alt="html5" width="40" height="40"/> </a>
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/ksanrse/ksanrse/blob/main/assets/cssicon.png" alt="css3" width="40" height="40"/> </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/ksanrse/ksanrse/blob/main/assets/javascripticon.png" alt="javascript" width="40" height="40"/> </a>
  <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/ksanrse/ksanrse/blob/main/assets/figmaicon.png" alt="figma" width="40" height="40"/> </a>
- <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="illustrator" width="40" height="40"/> </a>
- <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/> </a>
+ <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://github.com/ksanrse/ksanrse/blob/main/assets/illustratorlogo.png" alt="illustrator" width="40" height="40"/> </a>
+ <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://github.com/ksanrse/ksanrse/blob/main/assets/photoshopicon.png" alt="photoshop" width="40" height="40"/> </a>
  
