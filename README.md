@@ -15,7 +15,6 @@ Yo, I am a software engineer. One day, I decided to transition from a UI/UX desi
 <a href="https://www.photoshop.com/en"><img src="/assets/photoshop.png" alt="photoshop" width="40" height="40"/></a>
 <a href="https://www.adobe.com/in/products/illustrator.html"><img src="/assets/illustrator.png" alt="illustrator" width="40" height="40"/></a>
 
-### ✉️ Contact me
-
+<!-- ### ✉️ Contact me
 - [telegram](https://t.me/ksanrse)
-- [gmail](mailto:ksanrse@gmail.com)
+- [gmail](mailto:ksanrse@gmail.com) -->
