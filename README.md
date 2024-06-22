@@ -8,7 +8,8 @@ Yo, I am a software engineer. One day, I decided to transition from a UI/UX desi
 
 ### 🔧 My Frequently Used Stack:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="/assets/javascript.png" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/"><img src="/assets/typescript.png" alt="typescript" width="40" height="40"/></a><a href="https://react.dev/"><img src="/assets/react.png" alt="react" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/"><img src="/assets/typescript.png" alt="typescript" width="40" height="40"/></a>
+<a href="https://react.dev/"><img src="/assets/react.png" alt="react" width="40" height="40"/></a>
 <a href="https://vuejs.org/"><img src="/assets/vue.png" alt="vue" width="40" height="40"/></a>
 <a href="https://www.figma.com/"><img src="/assets/figma.png" alt="figma" width="40" height="40"/></a>
 <a href="https://www.photoshop.com/en"><img src="/assets/photoshop.png" alt="photoshop" width="40" height="40"/></a>
